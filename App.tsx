@@ -11,11 +11,11 @@ const WelcomeScreen: React.FC = () => {
   return (
     <ScrollView style={styles.header}>
       <View style={styles.barraS}>
-        <TouchableOpacity onPress={() => alert('Acesso ao Menu (ainda não foi criado)')}>
+        <TouchableOpacity onPress={() => alert('Acesso ao Menu (ainda não foi criado).')}>
         <Image source={menu} style={styles.menu} />
         </TouchableOpacity>
 
-        <TouchableOpacity onPress={() => alert('Acesso ao Carrinho de Compras (ainda não foi criado)')}>
+        <TouchableOpacity onPress={() => alert('Acesso ao Carrinho de Compras (ainda não foi criado).')}>
         <Image source={carrinho} style={styles.carro} />
         </TouchableOpacity>
       </View>
@@ -89,6 +89,7 @@ const styles = StyleSheet.create({
   header:{
     flex: 1,
     backgroundColor: '#fff',
+    marginTop: 40,
   },
 
   barraS: {
@@ -138,7 +139,7 @@ const styles = StyleSheet.create({
 
   nome: {
     fontSize: 28,
-    fontWeight: 'bolder',
+    fontWeight: 'bold',
     marginTop: 4,
     marginBottom: 13,
   },
@@ -238,7 +239,7 @@ const styles = StyleSheet.create({
 
   descProd: {
     width: 220,
-    fontSize: "small",
+    fontSize: 12,
   },
 
   precoProd: {
