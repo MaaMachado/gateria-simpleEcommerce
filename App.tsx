@@ -5,7 +5,6 @@ const menu = require("./assets/menu.png");
 const carrinho = require("./assets/comprar.png");
 const localizacao = require("./assets/localizacao.png");
 const imgGato = require("./assets/gatoanimact.png");
-const prod1 = require("./assets/produto1.png");
 
 const WelcomeScreen: React.FC = () => {
   return (
