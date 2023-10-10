@@ -14,7 +14,7 @@ Nesta documentação, apresentarei uma visão geral, tecnologias utilizadas, cad
 O aplicativo "Gataria" foi criado para demonstrar e testar os conhecimentos em React Native e TypeScript, servindo como uma introdução ao desenvolvimento de aplicativos híbridos.
 Uma aplicação simples com um menu inicial, com os itens de menu hambúrguer e um carrinho (ainda não funcionais, só aparece um alerta quando clicados), apresentação do negócio - localização, mensagem de boas vindas, nome da marca,
 botão de 'Saiba Mais' (acesso a um alerta para disponibilizar o link de acesso da marca original) - 5 categorias de produtos, só cria um alerta com o nome correspondente a categoria clicada, e produtos mais populares, listagem de 6 produtos
-(foto, nome, descrição e preço).
+(foto, nome, descrição e preço).<br><br>
 Design UI/UX: [link](https://www.canva.com/design/DAFwffJ0IQw/l12FDDwZO4pH-Er6q3gI3w/edit?utm_content=DAFwffJ0IQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
