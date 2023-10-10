@@ -61,7 +61,6 @@ Para acessar e utilizar o Gataria, siga as instruções abaixo:
 - Agora você pode visualizar o aplicativo pelo celular ou se quiser ver pelo 'web' é necessário digitar 'w' e esperar abrir uma página no navegador. Para uma melhor visualização web, vá nas Ferramentas do Programador e clique para ver no formato mobile.
 
 ---
----
 
 ## 📑 Licença:
 
